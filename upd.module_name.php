@@ -15,7 +15,7 @@ class Module_name_upd
 	/**
 	 * @var string
 	 */
-	var $version = THIS_MODULE_VERSION;
+	var $version = THIS_MODULE_VER;
 
 	/**
 	 * @var string
