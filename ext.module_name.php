@@ -14,17 +14,17 @@ class Module_name_ext {
 	/**
 	 * @var string
 	 */
-	var $name = PLAYA_NAME;
+	var $name = THIS_MODULE_NAME;
 
 	/**
 	 * @var string
 	 */
-	var $version = PLAYA_VER;
+	var $version = THIS_MODULE_VER;
 
 	/**
 	 * @var string
 	 */
-	var $description = PLAYA_DESC;
+	var $description = THIS_MODULE_DESC;
 
 	/**
 	 * @var string
@@ -34,7 +34,7 @@ class Module_name_ext {
 	/**
 	 * @var string
 	 */
-	var $docs_url = PLAYA_DOCS;
+	var $docs_url = THIS_MODULE_DOCS;
 
 	/**
 	 * @var string
