@@ -1,7 +1,7 @@
 <?php if (! defined('BASEPATH')) exit('No direct script access allowed');
 
 
-require_once '../../config.php';
+require_once PATH_THIRD.'module_name/config.php';
 
 $lang = array(
 
@@ -14,6 +14,6 @@ $lang = array(
 	/**
 	 * Other language Keys
 	 */
-	
+
 	// "key" => "Value"
 );
